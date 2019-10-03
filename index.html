@@ -1,17 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--Tag principal do HTML, onde foi definido como linguagem o português-->
+<html lang="pt-br">
+<!--Tag para definir a barra do navegador-->
 <head>
     <meta charset="UTF-8">
     <title>Jogo da Velha</title>
 </head>
 
+<!--Tag para arquivo externo .css que irá estilizar a página HTML-->
 <link rel="stylesheet" href="style.css">
 
+<!--Tag para definir o corpo do HTML, onde foi definido a cor cinza claro para o fundo-->
 <body style="background-color: LightGray">
 
+<!--Tag para definir a divisão do tabuleiro dentro do HTML, onde foi definido um identificador específico-->    
 <div id="tabuleiro">
-
+    <!--Tag para inserir um cabeçalho dentro da div-->
     <h1>Jogo da Velha</h1>
+    <!--Tag para definir as divisões das casas do tabuleiro, onde foi definido uma classe para todas as casas e um identificador específico para cada casa-->
     <div class="casa" id="casa0"></div>
     <div class="casa" id="casa1"></div>
     <div class="casa" id="casa2"></div>
@@ -23,7 +29,7 @@
     <div class="casa" id="casa8"></div>
 
 </div>
-
+<!--Tag para arquivo externo do script que fará o jogo funcionar-->
 <script src="script.js"> </script>
 
 </body>
