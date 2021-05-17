@@ -29,13 +29,18 @@ function clique(event){
         //Se o jogador não for o ganhador, passa a jogada para a "IA" jogar.
         if(!temosUmGanhador() && !empate()){
             turnoOponente(); 
-        }
-            
+        }          
     }
 }
+
+/*Insere o símbolo na casa do tabuleiro usando o indíce e o símbolo passados como parâmetros*/
+function turnoJogador (indice, letra){
+    casas[indice].innerHTML = letra;
+}
+
 /*Função para executar a jogada da "IA"*/
 function turnoOponente (){
-    //Desativa a opção de receber clique nas casas para o jogador não clicar enquanto a "IA" está
+    //Desativa a opção de receber clique nas casas para o jogador não clicar enquanto a "IA" está jogando
     desativarEventListener();
     //Executar a função após a espera de meio segundo
     window.setTimeout(function(){
@@ -57,12 +62,12 @@ function escolhaDoOponente(){
         const casasLocal = casas;
         const sequencia = [casasLocal[combinacao[0]],casasLocal[combinacao[1]], casasLocal[combinacao[2]]];
         const casasVaziasSequencia = sequencia.filter(casa => casa.innerHTML == "");
-        const casasSobrando = sequencia.filter(casa => casa.innerHTML != "");
-        if(casasVaziasSequencia.length == 1 && casasSobrando.every(casa => casa.innerHTML == computador)){
+        const casasOcupadasSequencia = sequencia.filter(casa => casa.innerHTML != "");
+        if(casasVaziasSequencia.length == 1 && casasOcupadasSequencia.every(casa => casa.innerHTML == computador)){
             resultado = idToNumber(casasVaziasSequencia[0]);
         }
             
-        if(casasVaziasSequencia.length == 1 && casasSobrando.every(casa => casa.innerHTML == jogador)){
+        if(casasVaziasSequencia.length == 1 && casasOcupadasSequencia.every(casa => casa.innerHTML == jogador)){
             resultado = idToNumber(casasVaziasSequencia[0]);
         }
     })
@@ -141,9 +146,4 @@ function limparTela (){
 e se não forem casas vazias*/
 function iguais (array){
     return array.every(casa => casa.innerHTML == array[0].innerHTML && casa.innerHTML != "");
-}
-
-/*Insere o símbolo na casa do tabuleiro usando o indíce e o símbolo passados como parâmetros*/
-function turnoJogador (indice, letra){
-    casas[indice].innerHTML = letra;
 }
