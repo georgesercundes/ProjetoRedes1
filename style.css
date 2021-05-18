@@ -1,44 +1,44 @@
 /*Estilo CSS para o tabuleiro do jogo: 
-    Altura, largura e centralização do tabuleiro*/
+Altura, largura e centralização do tabuleiro*/
 
-    #tabuleiro{
-        width: 320px;
-        height: 320px;
-        margin: auto;
-        margin-top: 100px;
-    }
+#tabuleiro{
+    width: 320px;
+    height: 320px;
+    margin: auto;
+    margin-top: 100px;
+}
 
-    /*Estilo CSS para o header h1: 
-    Alinhamento, tamanho da fonte e cor*/
+/*Estilo CSS para o header h1: 
+Alinhamento, tamanho da fonte e cor*/
 
-    #tabuleiro h1{
-        text-align: center;
-        font-size: 40px;
-        margin-bottom: 50px;
-        color: Solid Black;
-    }
+#tabuleiro h1{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    color: Solid Black;
+}
      
-    /*Estilo CSS para as casas do tabuleiro: 
-    Altura, largura, alinhamento, formato do cursor e tipo e tamanho da fonte*/
+/*Estilo CSS para as casas do tabuleiro: 
+Altura, largura, alinhamento, formato do cursor e tipo e tamanho da fonte*/
 
-    .casa{
-        width: 100px;
-        height: 100px;
-        float: left;
-        margin: 0;
-        padding: 0;
-        cursor: pointer;
-        text-align: center;
-        vertical-align: middle;
-        font-family: sans-serif;
-        font-size: 100px;
-    }
+.casa{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    font-family: sans-serif;
+    font-size: 100px;
+}
 
-    /*Estilo CSS para desenhar as bordas das casas do tabuleiro*/
+/*Estilo CSS para desenhar as bordas das casas do tabuleiro*/
 
-    #casa0, #casa1, #casa2, #casa3, #casa4, #casa5{
-        border-bottom: 10px Solid Black;
-    }
-    #casa2, #casa5, #casa8, #casa1, #casa4, #casa7{
-        border-left: 10px Solid Black;
-    }
+#casa0, #casa1, #casa2, #casa3, #casa4, #casa5{
+    border-bottom: 10px Solid Black;
+}
+#casa2, #casa5, #casa8, #casa1, #casa4, #casa7{
+    border-left: 10px Solid Black;
+}
