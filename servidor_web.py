@@ -1,10 +1,14 @@
 import http.server
 import socketserver
+import socket
 
-PORT = 8760
+HOSTNAME = socket.gethostname()
+IPADDRESS = socket.gethostbyname(HOSTNAME)
+
+PORT = 8000
 
 handler = http.server.SimpleHTTPRequestHandler
 
-with socketserver.TCPServer(("", PORT), handler) as httpd:
-    print("Server started at localhost:" + str(PORT))
+with socketserver.TCPServer((IPADDRESS, PORT), handler) as httpd:
+    print("Servidor aguardando no endereço {}:{}".format(IPADDRESS, str(PORT)))
     httpd.serve_forever()
