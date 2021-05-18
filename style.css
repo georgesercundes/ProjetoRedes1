@@ -1,5 +1,5 @@
 /*Estilo CSS para o tabuleiro do jogo: 
-Altura, largura e centralização do tabuleiro*/
+  Altura, largura e centralização do tabuleiro*/
 
 #tabuleiro{
     width: 320px;
@@ -9,7 +9,7 @@ Altura, largura e centralização do tabuleiro*/
 }
 
 /*Estilo CSS para o header h1: 
-Alinhamento, tamanho da fonte e cor*/
+  Alinhamento, tamanho da fonte e cor*/
 
 #tabuleiro h1{
     text-align: center;
@@ -19,7 +19,7 @@ Alinhamento, tamanho da fonte e cor*/
 }
      
 /*Estilo CSS para as casas do tabuleiro: 
-Altura, largura, alinhamento, formato do cursor e tipo e tamanho da fonte*/
+  Altura, largura, alinhamento, formato do cursor e tipo e tamanho da fonte*/
 
 .casa{
     width: 100px;
