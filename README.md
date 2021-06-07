@@ -11,6 +11,8 @@ Tabela de conteúdo
       * [Instalação](#-instalação)
       * [Rodando o jogo](#-rodando-a-jogo)
    * [Construído com](#%EF%B8%8F-construído-com)
+   * [Autor] (#-autor)
+   * [Licença](#-licença)
 <!--te-->
 
 
@@ -49,7 +51,7 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
 ## 🎲 Rodando a jogo
 
 1. Execute o VS Code, selecione a opção "Open Folder" e escolha a pasta contendo os arquivos do repositório.
-2. Na árvore de arquivos selecione o arquivo correspondente ao servidor e clique em "Run".
+2. Na árvore de arquivos, selecione o arquivo correspondente ao servidor e clique em "Run".
 3. Copie o endereço de IP e a porta que irá aparecer no console do programa e cole no navegador.
 4. Agora é so jogar! 
 
