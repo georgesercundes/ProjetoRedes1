@@ -7,9 +7,9 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Como usar](#como-usar)
-      * [Pré-Requisitos](#pré-requisitos)
-      * [Instalação](#instalação)
-   * [Construído com](#construído-com)
+      * [Pre-Requisitos](#pre-requisitos)
+      * [Instalacao](#instalacao)
+   * [Construido com](#construido-com)
 <!--te-->
 
 
@@ -23,12 +23,12 @@ O objetivo do projeto foi criar uma página web simples que demonstrasse os conh
 # Como usar
 
 
-## 📋 Pré-Requisitos
+## 📋 Pre-Requisitos
 
 Antes de começar, você vai precisar fazer o download do [Python](https://www.python.org/downloads/). 
 Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
 
-## 🔧 Instalação
+## 🔧 Instalacao
 
 1. Instale o Python 3
 
@@ -44,7 +44,7 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
    ```
 
 
-# 🛠️ Construído com
+# 🛠️ Construido com
 
 * Javascript
 * HTML
