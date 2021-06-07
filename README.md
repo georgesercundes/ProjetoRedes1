@@ -5,7 +5,7 @@
 Tabela de conteúdo
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Sobre](#sobre)
    * [Como usar](#como-usar)
       * [Pre-Requisitos](#pre-requisitos)
       * [Instalacao](#instalacao)
@@ -23,12 +23,12 @@ O objetivo do projeto foi criar uma página web simples que demonstrasse os conh
 # Como usar
 
 
-## 📋 [Pre-Requisitos](#pre-requisitos)
+## 📋 Pré-requisitos
 
 Antes de começar, você vai precisar fazer o download do [Python](https://www.python.org/downloads/). 
 Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
 
-## 🔧 Instalacao
+## 🔧 Instalação
 
 1. Instale o Python 3
 
@@ -42,7 +42,6 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
    ```sh
    git clone https://github.com/georgesercundes/projeto1_Redes1.git
    ```
-
 
 # 🛠️ Construido com
 
