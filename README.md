@@ -1,4 +1,4 @@
-<h1 align="center">Nome do Projeto</h1>
+<h1 align="center">Jogo da velha</h1>
 ## Projeto de página e servidor web realizado na disciplina de Redes de Computadores 1
 
 
