@@ -8,8 +8,8 @@ Tabela de conteúdo
    * [Sobre](#sobre)
    * [Como usar](#como-usar)
       * [Pré-requisitos](#-pré-requisitos)
-      * [Instalacao](#-instalação)
-   * [Construido com](#-construido-com)
+      * [Instalação](#-instalação)
+   * [Construído com](#%EF%B8%8F-construído-com)
 <!--te-->
 
 
@@ -43,7 +43,7 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
    git clone https://github.com/georgesercundes/projeto1_Redes1.git
    ```
 
-# 🛠️ Construido com
+# 🛠️ Construído com
 
 * Javascript
 * HTML
