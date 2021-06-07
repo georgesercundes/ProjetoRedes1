@@ -20,7 +20,7 @@ Tabela de conteúdo
 ![Screenshot](https://github.com/georgesercundes/projeto1_Redes1/blob/master/Screenshot.png)
 
 
-O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código em javascript, HTML e CSS rodando num servidor simples em python.
+O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código em javascript, HTML e CSS rodando num servidor simples em python. Foi escolhido desenvolver um jogo da velha com a implementação de uma "IA" para executar os comandos do computador.
 
 
 ## Como usar
