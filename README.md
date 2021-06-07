@@ -53,7 +53,7 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
    ```
    ou faça o download no link <https://github.com/georgesercundes/projeto1_Redes1/archive/refs/heads/master.zip>
    
-### 🎲 Rodando a jogo
+### 🎲 Rodando o jogo
 
 1. Execute o VS Code, selecione a opção "Open Folder" e escolha a pasta contendo os arquivos do repositório.
 2. Na árvore de arquivos, selecione o arquivo correspondente ao servidor e clique em "Run Python File in Terminal".
