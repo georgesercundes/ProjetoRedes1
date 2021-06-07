@@ -21,7 +21,7 @@ Tabela de conteúdo
 ![GIF-Jogo-da-velha](https://github.com/georgesercundes/projeto1_Redes1/blob/master/JogoDaVelha.gif)
 
 
-O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código front-end em Javascript, HTML e CSS, e no back-end um servidor simples em Python. Foi escolhido desenvolver um jogo da velha com a implementação de uma "IA" em Javascript para executar os comandos do computador. Para o servidor foi utilizado a biblioteca http.server do Python.
+O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código front-end com Javascript, HTML e CSS, e back-end com um servidor simples em Python. Foi escolhido desenvolver um jogo da velha com a implementação de uma "IA" em Javascript para executar os comandos do computador. Para o servidor foi utilizado a biblioteca http.server do Python.
 
 
 ## Como usar
