@@ -11,7 +11,7 @@ Tabela de conteúdo
       * [Instalação](#-instalação)
       * [Rodando o jogo](#-rodando-a-jogo)
    * [Construído com](#%EF%B8%8F-construído-com)
-   * [Autor] (#-autor)
+   * [Autor](#-autor)
    * [Licença](#-licença)
 <!--te-->
 
