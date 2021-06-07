@@ -44,7 +44,7 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
 
 3. Instale a extensão do Python no VS Code
 
-<https://marketplace.visualstudio.com/items?itemName=ms-python.python>
+   <https://marketplace.visualstudio.com/items?itemName=ms-python.python>
 
 4. Clone o repositório
 
