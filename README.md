@@ -2,14 +2,14 @@
 ## Projeto de página e servidor web realizado na disciplina de Redes de Computadores 1
 
 
-Tabela de conteúdos
+Tabela de conteúdo
 =================
 <!--ts-->
    * [Sobre](#Sobre)
    * [Como usar](#como-usar)
-      * [Pre-Requisitos](#pre-requisitos)
-      * [Instalacao](#instalacao)
-   * [Construido com](#construido-com)
+      * [Pre-Requisitos](##pre-requisitos)
+      * [Instalacao](##instalacao)
+   * [Construido com](#construido com)
 <!--te-->
 
 
