@@ -9,7 +9,7 @@ Tabela de conteúdo
    * [Como usar](#como-usar)
       * [Pré-requisitos](#-pré-requisitos)
       * [Instalação](#-instalação)
-      * [Rodando a aplicação](#rodando-o-jogo)
+      * [Rodando o jogo](#-rodando-a-jogo)
    * [Construído com](#%EF%B8%8F-construído-com)
 <!--te-->
 
@@ -59,3 +59,14 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
 * HTML
 * CSS
 * Python
+
+# ✒️ Autor
+
+George Siqueira Sercundes
+  * E-mail - gss@ecomp.poli.br
+  * Linkedin - [Linkedin](https://www.linkedin.com/in/georgesercundes/)
+  * Github - [Github](https://github.com/georgesercundes)
+
+# 📄 Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.txt](https://github.com/georgesercundes/projeto1_Redes1/blob/master/LICENSE.txt) para detalhes.
