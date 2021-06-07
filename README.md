@@ -9,6 +9,7 @@ Tabela de conteúdo
    * [Como usar](#como-usar)
       * [Pré-requisitos](#-pré-requisitos)
       * [Instalação](#-instalação)
+      * [Rodando a aplicação](#rodando-a-aplicação)
    * [Construído com](#%EF%B8%8F-construído-com)
 <!--te-->
 
@@ -42,6 +43,11 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
    ```sh
    git clone https://github.com/georgesercundes/projeto1_Redes1.git
    ```
+   
+## 🎲 Rodando a aplicação
+
+1. Execute o VS Code, selecione a opção "Open Folder" e escolha a pasta contendo os arquivos do repositório
+2. Na árvore de arquivos selecione o arquivo correspondente ao servidor e clique no 
 
 # 🛠️ Construído com
 
