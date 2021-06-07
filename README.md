@@ -7,9 +7,9 @@ Tabela de conteúdo
 <!--ts-->
    * [Sobre](#Sobre)
    * [Como usar](#como-usar)
-      * [Pre-Requisitos](##pre-requisitos)
-      * [Instalacao](##instalacao)
-   * [Construido com](#construido com)
+      * [Pre-Requisitos](#pre-requisitos)
+      * [Instalacao](#instalacao)
+   * [Construido com](#construido-com)
 <!--te-->
 
 
@@ -23,7 +23,7 @@ O objetivo do projeto foi criar uma página web simples que demonstrasse os conh
 # Como usar
 
 
-## 📋 Pre-Requisitos
+## 📋 [Pre-Requisitos](#pre-requisitos)
 
 Antes de começar, você vai precisar fazer o download do [Python](https://www.python.org/downloads/). 
 Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
