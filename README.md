@@ -21,7 +21,7 @@ Tabela de conteúdo
 ![Screenshot](https://github.com/georgesercundes/projeto1_Redes1/blob/master/Screenshot.png)
 
 
-O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código front-end em Javascript, HTML e CSS, e no back-end um servidor simples em Python. Foi escolhido desenvolver um jogo da velha com a implementação de uma "IA" em Javascript para executar os comandos do computador, para o servidor foi utilizado a biblioteca http.server do Python.
+O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código front-end em Javascript, HTML e CSS, e no back-end um servidor simples em Python. Foi escolhido desenvolver um jogo da velha com a implementação de uma "IA" em Javascript para executar os comandos do computador. Para o servidor foi utilizado a biblioteca http.server do Python.
 
 
 ## Como usar
