@@ -7,8 +7,8 @@ Tabela de conteúdo
 <!--ts-->
    * [Sobre](#sobre)
    * [Como usar](#como-usar)
-      * [Pré-requisitos](#-pre-requisitos)
-      * [Instalacao](#-instalacao)
+      * [Pré-requisitos](#-pré-requisitos)
+      * [Instalacao](#-instalação)
    * [Construido com](#-construido-com)
 <!--te-->
 
