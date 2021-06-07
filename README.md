@@ -16,22 +16,22 @@ Tabela de conteúdo
 <!--te-->
 
 
-# Sobre
+## Sobre
 ![Screenshot](https://github.com/georgesercundes/projeto1_Redes1/blob/master/Screenshot.png)
 
 
 O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código em javascript, HTML e CSS rodando num servidor simples em python.
 
 
-# Como usar
+## Como usar
 
 
-## 📋 Pré-requisitos
+### 📋 Pré-requisitos
 
 Antes de começar, você vai precisar fazer o download do [Python](https://www.python.org/downloads/). 
 Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
 
-## 🔧 Instalação
+### 🔧 Instalação
 
 1. Instale o Python 3
 
@@ -48,27 +48,27 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
    ```
    ou faça o download no link <https://github.com/georgesercundes/projeto1_Redes1/archive/refs/heads/master.zip>
    
-## 🎲 Rodando a jogo
+### 🎲 Rodando a jogo
 
 1. Execute o VS Code, selecione a opção "Open Folder" e escolha a pasta contendo os arquivos do repositório.
 2. Na árvore de arquivos, selecione o arquivo correspondente ao servidor e clique em "Run".
 3. Copie o endereço de IP e a porta que irá aparecer no console do programa e cole no navegador.
 4. Agora é so jogar! 
 
-# 🛠️ Construído com
+## 🛠️ Construído com
 
 * Javascript
 * HTML
 * CSS
 * Python
 
-# ✒️ Autor
+## ✒️ Autor
 
 George Siqueira Sercundes
   * E-mail - gss@ecomp.poli.br
   * Linkedin - [Linkedin](https://www.linkedin.com/in/georgesercundes/)
   * Github - [Github](https://github.com/georgesercundes)
 
-# 📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.txt](https://github.com/georgesercundes/projeto1_Redes1/blob/master/LICENSE.txt) para detalhes.
