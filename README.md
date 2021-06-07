@@ -57,7 +57,7 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
 
 1. Execute o VS Code, selecione a opção "Open Folder" e escolha a pasta contendo os arquivos do repositório.
 2. Na árvore de arquivos, selecione o arquivo correspondente ao servidor e clique em "Run Python File in Terminal".
-3. Copie o endereço de IP e a porta que irá aparecer no console do programa e cole no navegador.
+3. Copie o endereço de IP e a porta que irá aparecer no terminal do programa e cole no navegador.
 4. Agora é so jogar! 
 
 ## 🛠️ Construído com
