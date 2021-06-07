@@ -1,5 +1,6 @@
 <h1 align="center">Jogo da Velha</h1>
-## Projeto de página e servidor web realizado na disciplina de Redes de Computadores 1
+
+<p>Projeto de página e servidor web realizado na disciplina de Redes de Computadores 1</p>
 
 
 Tabela de conteúdo
