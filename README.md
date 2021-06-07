@@ -9,7 +9,7 @@ Tabela de conteúdo
    * [Como usar](#como-usar)
       * [Pré-requisitos](#-pré-requisitos)
       * [Instalação](#-instalação)
-      * [Rodando a aplicação](#rodando-a-aplicação)
+      * [Rodando a aplicação](#rodando-o-jogo)
    * [Construído com](#%EF%B8%8F-construído-com)
 <!--te-->
 
@@ -40,14 +40,18 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
 ![VScode-Screenshot-Installation](https://mlf.net.br/wp-content/uploads/artigos/office-addins/instalar-e-configurar-o-visual-studio-code/02.png)
 
 3. Clone o repositório
+
    ```sh
    git clone https://github.com/georgesercundes/projeto1_Redes1.git
    ```
+   ou faça o download no link <https://github.com/georgesercundes/projeto1_Redes1/archive/refs/heads/master.zip>
    
-## 🎲 Rodando a aplicação
+## 🎲 Rodando a jogo
 
-1. Execute o VS Code, selecione a opção "Open Folder" e escolha a pasta contendo os arquivos do repositório
-2. Na árvore de arquivos selecione o arquivo correspondente ao servidor e clique no 
+1. Execute o VS Code, selecione a opção "Open Folder" e escolha a pasta contendo os arquivos do repositório.
+2. Na árvore de arquivos selecione o arquivo correspondente ao servidor e clique em "Run".
+3. Copie o endereço de IP e a porta que irá aparecer no console do programa e cole no navegador.
+4. Agora é so jogar! 
 
 # 🛠️ Construído com
 
