@@ -21,7 +21,7 @@ Tabela de conteúdo
 ![Screenshot](https://github.com/georgesercundes/projeto1_Redes1/blob/master/Screenshot.png)
 
 
-O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código em javascript, HTML e CSS rodando num servidor simples em python. Foi escolhido desenvolver um jogo da velha com a implementação de uma "IA" para executar os comandos do computador.
+O objetivo do projeto foi criar uma página web simples que demonstrasse os conhecimentos em desenvolver código em Javascript, HTML e CSS rodando num servidor simples em Python. Foi escolhido desenvolver um jogo da velha com a implementação de uma "IA" para executar os comandos do computador.
 
 
 ## Como usar
@@ -42,7 +42,11 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
 
 ![VScode-Screenshot-Installation](https://mlf.net.br/wp-content/uploads/artigos/office-addins/instalar-e-configurar-o-visual-studio-code/02.png)
 
-3. Clone o repositório
+3. Instale a extensão do Python no VS Code
+
+![VScode-Extension-Installation](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+4. Clone o repositório
 
    ```sh
    git clone https://github.com/georgesercundes/projeto1_Redes1.git
@@ -52,7 +56,7 @@ Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](h
 ### 🎲 Rodando a jogo
 
 1. Execute o VS Code, selecione a opção "Open Folder" e escolha a pasta contendo os arquivos do repositório.
-2. Na árvore de arquivos, selecione o arquivo correspondente ao servidor e clique em "Run".
+2. Na árvore de arquivos, selecione o arquivo correspondente ao servidor e clique em "Run Python File in Terminal".
 3. Copie o endereço de IP e a porta que irá aparecer no console do programa e cole no navegador.
 4. Agora é so jogar! 
 
